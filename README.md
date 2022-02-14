@@ -39,3 +39,4 @@ After you are done type
 ./stream.sh
 ```
 And now you can see your stream will be started if u did everything correctly
+[Demo](https://www.youtube.com/watch?v=OJn8-Sn0wmM)
