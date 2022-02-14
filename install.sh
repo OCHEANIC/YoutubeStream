@@ -13,3 +13,4 @@ apt-get update
 apt-get install ffmpeg
 printf "Suscessfully installed the dependencies\n"
 printf "You may change the video Url , Music url , Stream key in stream.sh\n"
+exit 1
