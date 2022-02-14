@@ -12,5 +12,6 @@ printf "Installing Dependencies\n"
 apt-get update
 apt-get install ffmpeg
 printf "Suscessfully installed the dependencies\n"
+wget https://raw.githubusercontent.com/OCHEANIC/YoutubeStream/main/stream.sh
 printf "You may change the video Url , Music url , Stream key in stream.sh\n"
 exit 1
