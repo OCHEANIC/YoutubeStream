@@ -5,7 +5,7 @@
 ###########################################
 
 
-output "Youtube Stream 24/7 Version 1.0.0"
+output "Youtube Stream 24/7 Version 0.0.1"
 output
 output "Copyright (C) 2021 - 2022, Ocheanic <contact@ocheanic.tech"
 output "https://github.com/OCHEANIC/YoutubeStream"
